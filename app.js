@@ -536,17 +536,123 @@
 //   alert("No match");
 // }
 
+// xxxxx chapter 11 end xxxx
+
+//xxxxxxxxxxxx ASSIGNMENT 20 PART 2 END
+
+//========== ASSIGNMENT 21 PART 1 START ========
+
+//==========CHAPTER 12 AND 13 START =====
+
+// var char = prompt("Enter a character:");
+// var code = char.charCodeAt(0);
+// if (code >= 48 && code <= 57) {
+//   alert("It is a number");
+// } else if (code >= 65 && code <= 90) {
+//   alert("It is an uppercase letter");
+// } else if (code >= 97 && code <= 122) {
+//   alert("It is a lowercase letter");
+// } else {
+//   alert("Invalid character");
+// }
+
+// var a = +prompt("Enter first number:");
+// var b = +prompt("Enter second number:");
+// if (a > b) {
+//   alert("The larger number is: " + a);
+// } else if (b > a) {
+//   alert("The larger number is: " + b);
+// } else {
+//   alert("Both numbers are equal");
+// }
+
+// var num = +prompt("Enter a number:");
+// if (num > 0) {
+//   alert("Positive number");
+// } else if (num < 0) {
+//   alert("Negative number");
+// } else {
+//   alert("Zero");
+// }
+
+// var correctPassword = "abc123";
+// var userPassword = prompt("Enter your password:");
+// if (!userPassword) {
+//   alert("Please enter your password");
+// } else if (userPassword === correctPassword) {
+//   alert("Correct! The password you entered matches the original password");
+// } else {
+//   alert("Incorrect password");
+// }
+
+// var greeting;
+// var hour = 13;
+// if (hour < 18) {
+//   greeting = "Good day";
+// } else {
+//   greeting = "Good evening";
+// }
+// alert(greeting);
+
+// XXXXXX CHAPTER 12 AND 13 END XXXXXX
+
+//XXXXXXX ASSIGNMENT 21 PART 1 END XXXXXXXXX
+
+//=========== ASSIGNMENT 21 PART 2 START ==========
+
+//=====CHAPTER 12 START ==========
+
+// var a = 10;
+// var b = 5;
+// if (a >= b) {
+//   alert("a is greater or equal to b");
+// } else {
+//   alert("a is less than b");
+// }
+
+// var marks = +prompt("Enter your marks out of 100:");
+// var grade;
+// if (marks >= 80) {
+//   grade = "A+";
+// } else if (marks >= 70) {
+//   grade = "A";
+// } else if (marks >= 60) {
+//   grade = "B";
+// } else if (marks >= 50) {
+//   grade = "C";
+// } else {
+//   grade = "Fail";
+// }
+// alert("Your grade is: " + grade);
+
+// var city = prompt("Enter your city:");
+// if (city === "Karachi") {
+//   alert("It is Karachi");
+// } else if (city === "Lahore") {
+//   alert("It is Lahore");
+// } else {
+//   alert("It's another city");
+// }
+
+// XXXXXXXX CHAPTER 12 END XXXX
+ 
+//====== CHAPTER 13 START ====
+
+// var firstName = "Ali";
+// var lastName = "Khan";
+// var f = prompt("Enter your first name:");
+// var l = prompt("Enter your last name:");
+// if (f === firstName && l === lastName) {
+//   alert("Name matched");
+// }
+
+// XXXXXX CHAPTER 13 END XXXXXXXX
+
+//XXXXXXX ASSIGNMENT 21 PART 2 END XXXXXXX 
+
+//======== ASSIGNMENT 22 PART 1 START =======
+
+// ======== CHAPTER     START =======
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+//XXXXXX CHAPTER      END XXXXXXX
